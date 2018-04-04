@@ -1,0 +1,10 @@
+Print Fibonacci Series in reverse order
+Given a number n then print n terms of fibonacci series in reverse order.
+
+Examples:
+
+Input : n = 5
+Output : 3 2 1 1 0
+
+Input : n = 8
+Output : 13 8 5 3 2 1 1 0
