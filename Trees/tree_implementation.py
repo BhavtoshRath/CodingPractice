@@ -19,6 +19,12 @@ class Node:
         else:
             self.data = data # If this is the first node in the tree.
 
+
+    def find(self, data):
+        if data < self.data:
+
+
+
     def PrintTree(self):
         if self.left:
             self.left.PrintTree()
