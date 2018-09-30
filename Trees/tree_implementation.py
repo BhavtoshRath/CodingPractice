@@ -11,7 +11,7 @@ class Node:
                     self.left = Node(data)
                 else:
                     self.left.insert(data) #recursive call
-            elif data >= self.data:
+            elif data > self.data:
                 if self.right is None:
                     self.right = Node(data)
                 else:
@@ -22,6 +22,25 @@ class Node:
 
     def find(self, data):
         if data < self.data:
+            if self.left is None:
+                return False
+            return self.left.find(data)
+        elif data > self.data:
+            if self.right is None:
+                return False
+            return self.right.find(data)
+        else:
+            return True
+
+
+    def inorder(self):
+        if self.left:
+            self.left.inorder()
+        print(self.data)
+        if self.right:
+            self.right.inorder()
+
+
 
 
 
@@ -33,9 +52,13 @@ class Node:
             self.right.PrintTree()
 
 
+
+
+
 root = Node(12)
 root.insert(6)
 root.insert(14)
 root.insert(3)
-
-root.PrintTree()
+print(root.find(7))
+print(root.find(14))
+root.inorder()
