@@ -28,9 +28,59 @@ class LinkedList:
         node.setNext(self.head)
         self.head = node
 
+    def size(self):
+        current = self.head
+        count = 0
+        while current:
+            count+=1
+            current = current.getNext()
+        return count
+
+    def search(self, data):
+        current = self.head
+        while current.getNext() != None:
+            if current.getData() == data:
+                return True
+            else:
+                current = current.getNext()
+        return False
+
+    def remove(self, data):
+        current = self.head
+        previous = None
+        while current.getNext():
+            if current.getData() == data and previous is None:
+                self.head = current.getNext()
+                return True
+            elif current.getData() == data and previous is not None:
+                previous.setNext(current.getNext())
+                return True
+            else:
+                previous = current
+                current = current.getNext()
+        return False
+
+    def append(self, data):
+        node = Node(data)
+        current = self.head
+        while current.getNext():
+            current = current.getNext()
+        current.setNext(node)
 
 
 
 
-n = Node(5)
-print(n.getData())
+
+
+
+mylist = LinkedList()
+mylist.add(31)
+mylist.add(77)
+mylist.add(7)
+mylist.add(727)
+
+# print(mylist.size())
+# print(mylist.search(77))
+# print(mylist.remove(77))
+mylist.append(21)
+print(mylist)
