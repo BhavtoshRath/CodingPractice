@@ -67,6 +67,37 @@ class LinkedList:
             current = current.getNext()
         current.setNext(node)
 
+    def insert_after_node(self, data1, data2):
+        node = Node(data1)
+        current = self.head
+        while current.getNext():
+            if current.getData() != data2:
+                current = current.getNext()
+            else:
+                node.setNext(current.getNext())
+                current.setNext(node)
+                return True
+        return False
+
+    def insert_before_node(self, data1, data2):
+        node = Node(data1)
+        current = self.head
+        previous = None
+        while current.getNext():
+            if current.getData() == data2 and previous is None:
+                node.setNext(current)
+                return True
+            if current.getData() == data2 and previous is not None:
+                previous.setNext(node)
+                node.setNext(current.getNext())
+                return True
+            else:
+                previous = current
+                current = current.getNext()
+        return False
+
+
+
 
 
 
@@ -82,5 +113,6 @@ mylist.add(727)
 # print(mylist.size())
 # print(mylist.search(77))
 # print(mylist.remove(77))
-mylist.append(21)
+# mylist.append(21)
+mylist.insert_before_node(21,77)
 print(mylist)
