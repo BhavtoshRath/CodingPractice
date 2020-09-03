@@ -88,31 +88,95 @@ class LinkedList:
                 node.setNext(current)
                 return True
             if current.getData() == data2 and previous is not None:
+                node.setNext(current)
                 previous.setNext(node)
-                node.setNext(current.getNext())
                 return True
             else:
                 previous = current
                 current = current.getNext()
         return False
 
+    def RemDups(self):  # Works only if there are two repetitions
+        previous = self.head
+        current = previous.getNext()
 
-
-
-
+        while previous.getNext() is not None:
+            if previous.getData() == current.getData():
+                previous.setNext(current.getNext())
+                return True
+            previous = current
+            current = current.getNext()
 
 
 
 
 mylist = LinkedList()
-mylist.add(31)
-mylist.add(77)
+mylist.add(8)
+mylist.add(8)
+mylist.add(9)
 mylist.add(7)
-mylist.add(727)
 
-# print(mylist.size())
-# print(mylist.search(77))
-# print(mylist.remove(77))
-# mylist.append(21)
-mylist.insert_before_node(21,77)
+mylist.RemDups()
 print(mylist)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
