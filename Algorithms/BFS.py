@@ -19,7 +19,7 @@ class Graph:
             print(s, end=" ")
 
             for i in self.graph[s]:
-                if visited[i] == False:
+                if visited[i] is False:
                     queue.append(i)
                     visited[i] = True
 

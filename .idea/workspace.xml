@@ -2,27 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b255e075-e684-4ad0-a813-fd68265fb599" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/BFS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/Arrays/OneEdit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/Arrays/permutation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/Stack/paranthesis_checker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/find_middle_element.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/implement_queue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/fact.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/fib.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/frac_to_rec_dec.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sort/Bubble.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sort/Insertion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sort/Merge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trees/BinarySearch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tries/tries_implementation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/CodingPractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CodingPractice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BitManipulation/Insert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BitManipulation/complement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue_prac.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/BotInGrid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/TripleStep.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack_prac.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashTables/HashTable_implementation.py" beforeDir="false" afterPath="$PROJECT_DIR$/HashTables/HashTable_implementation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedList/implementation.py" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList/implementation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trees/tree_implementation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Trees/tree_implementation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/BFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/BFS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graphs/traversal/DFS/DFS_implementation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Graphs/traversal/DFS/DFS_implementation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/fib.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/fib.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,37 +22,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Sort/Bubble.py">
+        <entry file="file://$PROJECT_DIR$/BitManipulation/complement.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="1" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Sort/Insertion.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="14" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Sort/Merge.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+            <state relative-caret-position="390">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Algorithms/BFS.py">
+        <entry file="file://$PROJECT_DIR$/BitManipulation/Insert.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+            <state relative-caret-position="213">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
             </state>
           </provider>
         </entry>
@@ -141,7 +112,6 @@
         <option value="$PROJECT_DIR$/DynammicP/HouseRobber/HouseRobber.py" />
         <option value="$PROJECT_DIR$/DynammicP/HouseRobber/HouseRobber" />
         <option value="$PROJECT_DIR$/Graphs/traversal/DFS/RedundantConnection1.py" />
-        <option value="$PROJECT_DIR$/Graphs/traversal/DFS/DFS_implementation.py" />
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/LinkedList/find_middle_element.py" />
         <option value="$PROJECT_DIR$/DataStructures/Stack/paranthesis_checker.py" />
@@ -151,7 +121,6 @@
         <option value="$PROJECT_DIR$/DataStructures/Arrays/OneEdit.py" />
         <option value="$PROJECT_DIR$/LinkedList/implementation.py" />
         <option value="$PROJECT_DIR$/Trees/BinarySearch.py" />
-        <option value="$PROJECT_DIR$/Recursion/fib.py" />
         <option value="$PROJECT_DIR$/Recursion/fact.py" />
         <option value="$PROJECT_DIR$/Recursion/frac_to_rec_dec.py" />
         <option value="$PROJECT_DIR$/Trees/tree_implementation.py" />
@@ -160,7 +129,16 @@
         <option value="$PROJECT_DIR$/TEMP" />
         <option value="$PROJECT_DIR$/Sort/Insertion.py" />
         <option value="$PROJECT_DIR$/Sort/Merge.py" />
+        <option value="$PROJECT_DIR$/Graphs/traversal/DFS/DFS_implementation.py" />
         <option value="$PROJECT_DIR$/Algorithms/BFS.py" />
+        <option value="$PROJECT_DIR$/Recursion/fib.py" />
+        <option value="$PROJECT_DIR$/Recursion/TripelStep.py" />
+        <option value="$PROJECT_DIR$/Recursion/TripleStep.py" />
+        <option value="$PROJECT_DIR$/Recursion/BotInGrid.py" />
+        <option value="$PROJECT_DIR$/Stack.py" />
+        <option value="$PROJECT_DIR$/Queue.py" />
+        <option value="$PROJECT_DIR$/BitManipulation/complement.py" />
+        <option value="$PROJECT_DIR$/BitManipulation/Insert.py" />
       </list>
     </option>
   </component>
@@ -181,6 +159,16 @@
             <path>
               <item name="CodingPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="CodingPractice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodingPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodingPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="BitManipulation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodingPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodingPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="Graphs" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -205,8 +193,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.BFS">
-    <configuration name="BFS" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Insert">
+    <configuration name="BotInGrid" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CodingPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -214,11 +202,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithms/BFS.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/BotInGrid.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -227,7 +215,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Bubble" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Insert" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CodingPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -235,11 +223,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sort" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BitManipulation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sort/Bubble.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BitManipulation/Insert.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -248,7 +236,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Insertion" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Queue" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CodingPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -256,11 +244,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sort" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sort/Insertion.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Queue_prac.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -269,7 +257,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Merge" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="TripleStep" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CodingPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -277,11 +265,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sort" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sort/Merge.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/TripleStep.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -290,7 +278,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tries_implementation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="complement" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CodingPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -298,11 +286,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tries" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BitManipulation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tries/tries_implementation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BitManipulation/complement.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -312,19 +300,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Bubble" />
-      <item itemvalue="Python.tries_implementation" />
-      <item itemvalue="Python.Insertion" />
-      <item itemvalue="Python.Merge" />
-      <item itemvalue="Python.BFS" />
+      <item itemvalue="Python.TripleStep" />
+      <item itemvalue="Python.BotInGrid" />
+      <item itemvalue="Python.Queue" />
+      <item itemvalue="Python.complement" />
+      <item itemvalue="Python.Insert" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.BFS" />
-        <item itemvalue="Python.Merge" />
-        <item itemvalue="Python.Insertion" />
-        <item itemvalue="Python.tries_implementation" />
-        <item itemvalue="Python.Bubble" />
+        <item itemvalue="Python.Insert" />
+        <item itemvalue="Python.complement" />
+        <item itemvalue="Python.Queue" />
+        <item itemvalue="Python.BotInGrid" />
+        <item itemvalue="Python.TripleStep" />
       </list>
     </recent_temporary>
   </component>
@@ -342,16 +330,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1308017" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32857144" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3377551" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32857144" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.33673468" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -375,7 +362,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Graphs/traversal/DFS/DFS_implementation.py</url>
-          <line>31</line>
+          <line>12</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -448,63 +435,103 @@
           <line>35</line>
           <option name="timeStamp" value="54" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Recursion/fib.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Recursion/TripleStep.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Recursion/BotInGrid.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Queue_prac.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BitManipulation/complement.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BitManipulation/Insert.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BitManipulation/Insert.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="(range(i-1, 0))" language="Python" />
+        <watch expression="len(bin1) - i" language="Python" />
+        <watch expression="bin(allOnes)" language="Python" />
+        <watch expression="7&lt;&lt;1" language="Python" />
+        <watch expression="&quot;{0:b}&quot;.format(n)" language="Python" />
+        <watch expression="&quot;{0:b}&quot;.format(allOnes)" language="Python" />
+        <watch expression="&quot;{0:b}&quot;.format(left)" language="Python" />
       </configuration>
     </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
       <expression>
-        <expression-string>(range(i-1, 0))</expression-string>
+        <expression-string>&quot;{0:b}&quot;.format(left)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>(range(i, 0))</expression-string>
+        <expression-string>&quot;{0:b}&quot;.format(allOnes)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>reversed(range(i, 0))</expression-string>
+        <expression-string>&quot;{0:b}&quot;.format(n)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>root.children</expression-string>
+        <expression-string>7&lt;&lt;1</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>word[i]</expression-string>
+        <expression-string>bin(allOnes)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>root.children.get(index)</expression-string>
+        <expression-string>len(bin1) - i</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>self.get_node()</expression-string>
+        <expression-string>M[2][3]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>pCrawl</expression-string>
+        <expression-string>botInGrid_dp(5,5)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>array[j+1]</expression-string>
+        <expression-string>M</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>array[j]</expression-string>
+        <expression-string>M[1,3]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -524,13 +551,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Graphs/traversal/DFS/DFS_implementation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -583,13 +603,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Recursion/fib.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Trees/tree_implementation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="885">
@@ -622,6 +635,76 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sort/Merge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/BFS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" selection-start-line="26" selection-end-line="35" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graphs/traversal/DFS/DFS_implementation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="19" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recursion/fib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recursion/TripleStep.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recursion/BotInGrid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="1725" selection-start-line="1725" selection-end-line="1725" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Queue_prac.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stack_prac.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -659,17 +742,17 @@
     <entry file="file://$PROJECT_DIR$/DynammicP/minCostClimbingStairs/minCostClimbingStairs.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sort/Merge.py">
+    <entry file="file://$PROJECT_DIR$/BitManipulation/complement.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        <state relative-caret-position="390">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/BFS.py">
+    <entry file="file://$PROJECT_DIR$/BitManipulation/Insert.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        <state relative-caret-position="213">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
     </entry>
