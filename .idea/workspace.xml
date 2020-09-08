@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b255e075-e684-4ad0-a813-fd68265fb599" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/BitManipulation/Insert.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BitManipulation/complement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Queue_prac.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/BotInGrid.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/TripleStep.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack_prac.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructures/ArraysStrings/StringCompression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/kToLast.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/BFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/BFS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graphs/traversal/DFS/DFS_implementation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Graphs/traversal/DFS/DFS_implementation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion/fib.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/fib.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/Arrays/ArrayPartition1/ArrayPartition1.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/ArraysStrings/ArrayPartition1/ArrayPartition1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/Arrays/ArrayPartition1/LeetCode-561.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/ArraysStrings/ArrayPartition1/LeetCode-561.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/Arrays/OneEdit.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/ArraysStrings/OneEdit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/Arrays/permutation.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/ArraysStrings/permutation.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,19 +19,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BitManipulation/complement.py">
+        <entry file="file://$PROJECT_DIR$/BitManipulation/Insert.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="525">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataStructures/ArraysStrings/StringCompression.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1">
+              <caret lean-forward="true" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BitManipulation/Insert.py">
+        <entry file="file://$PROJECT_DIR$/LinkedList/kToLast.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="298">
+              <caret line="34" column="46" lean-forward="true" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LinkedList/implementation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="943">
+              <caret line="112" selection-start-line="112" selection-end-line="116" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -139,10 +154,13 @@
         <option value="$PROJECT_DIR$/Queue.py" />
         <option value="$PROJECT_DIR$/BitManipulation/complement.py" />
         <option value="$PROJECT_DIR$/BitManipulation/Insert.py" />
+        <option value="$PROJECT_DIR$/DataStructures/ArraysStrings/StringCompression.py" />
+        <option value="$PROJECT_DIR$/LinkedList/kToLast.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="-1680" />
     <option name="width" value="1680" />
     <option name="height" value="1050" />
   </component>
@@ -152,7 +170,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -163,17 +180,24 @@
             <path>
               <item name="CodingPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="CodingPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="BitManipulation" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CodingPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="CodingPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="Graphs" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="ArraysStrings" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodingPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodingPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="LinkedList" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -193,28 +217,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Insert">
-    <configuration name="BotInGrid" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="CodingPractice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/BotInGrid.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.kToLast">
     <configuration name="Insert" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CodingPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -257,7 +260,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TripleStep" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="StringCompression" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CodingPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -265,11 +268,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataStructures/ArraysStrings" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/TripleStep.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructures/ArraysStrings/StringCompression.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -299,20 +302,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="kToLast" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CodingPractice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LinkedList" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LinkedList/kToLast.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.TripleStep" />
-      <item itemvalue="Python.BotInGrid" />
       <item itemvalue="Python.Queue" />
       <item itemvalue="Python.complement" />
       <item itemvalue="Python.Insert" />
+      <item itemvalue="Python.StringCompression" />
+      <item itemvalue="Python.kToLast" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.kToLast" />
+        <item itemvalue="Python.StringCompression" />
         <item itemvalue="Python.Insert" />
         <item itemvalue="Python.complement" />
         <item itemvalue="Python.Queue" />
-        <item itemvalue="Python.BotInGrid" />
-        <item itemvalue="Python.TripleStep" />
       </list>
     </recent_temporary>
   </component>
@@ -330,15 +354,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
+    <frame x="-1680" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1308017" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32857144" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.33673468" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32857144" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.33673468" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -376,12 +401,12 @@
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/DataStructures/Arrays/permutation.py</url>
+          <url>file://$PROJECT_DIR$/DataStructures/ArraysStrings/permutation.py</url>
           <line>9</line>
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/DataStructures/Arrays/OneEdit.py</url>
+          <url>file://$PROJECT_DIR$/DataStructures/ArraysStrings/OneEdit.py</url>
           <line>28</line>
           <option name="timeStamp" value="27" />
         </line-breakpoint>
@@ -470,6 +495,16 @@
           <line>55</line>
           <option name="timeStamp" value="72" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DataStructures/ArraysStrings/StringCompression.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LinkedList/kToLast.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -480,11 +515,50 @@
         <watch expression="&quot;{0:b}&quot;.format(n)" language="Python" />
         <watch expression="&quot;{0:b}&quot;.format(allOnes)" language="Python" />
         <watch expression="&quot;{0:b}&quot;.format(left)" language="Python" />
+        <watch expression="new_s[-1]" language="Python" />
+        <watch expression="len(st)" language="Python" />
+        <watch expression="str(read - anchor + 1)" language="Python" />
+        <watch expression="mylist.head.getNext" language="Python" />
       </configuration>
     </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
+      <expression>
+        <expression-string>mylist.head.getNext</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>str(read - anchor + 1)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>len(st)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>len(new_s)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new_s[-1]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>st[-1]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>st</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>&quot;{0:b}&quot;.format(left)</expression-string>
         <language-id>Python</language-id>
@@ -492,46 +566,6 @@
       </expression>
       <expression>
         <expression-string>&quot;{0:b}&quot;.format(allOnes)</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>&quot;{0:b}&quot;.format(n)</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>7&lt;&lt;1</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>bin(allOnes)</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>len(bin1) - i</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>M[2][3]</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>botInGrid_dp(5,5)</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>M</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>M[1,3]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -582,24 +616,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructures/Arrays/permutation.py">
+    <entry file="file://$PROJECT_DIR$/DataStructures/ArraysStrings/permutation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructures/Arrays/OneEdit.py">
+    <entry file="file://$PROJECT_DIR$/DataStructures/ArraysStrings/OneEdit.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LinkedList/implementation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1515">
-          <caret line="101" selection-start-line="101" selection-end-line="101" />
         </state>
       </provider>
     </entry>
@@ -708,6 +735,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/BitManipulation/complement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Trees/BinarySearch.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -742,17 +776,31 @@
     <entry file="file://$PROJECT_DIR$/DynammicP/minCostClimbingStairs/minCostClimbingStairs.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/BitManipulation/complement.py">
+    <entry file="file://$PROJECT_DIR$/BitManipulation/Insert.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="525">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BitManipulation/Insert.py">
+    <entry file="file://$PROJECT_DIR$/LinkedList/implementation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        <state relative-caret-position="943">
+          <caret line="112" selection-start-line="112" selection-end-line="116" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/ArraysStrings/StringCompression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedList/kToLast.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="34" column="46" lean-forward="true" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
         </state>
       </provider>
     </entry>
