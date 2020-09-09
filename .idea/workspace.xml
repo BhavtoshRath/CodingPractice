@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b255e075-e684-4ad0-a813-fd68265fb599" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/DataStructures/ArraysStrings/StringCompression.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/kToLast.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructures/Arrays/ArrayPartition1/ArrayPartition1.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/ArraysStrings/ArrayPartition1/ArrayPartition1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructures/Arrays/ArrayPartition1/LeetCode-561.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/ArraysStrings/ArrayPartition1/LeetCode-561.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructures/Arrays/OneEdit.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/ArraysStrings/OneEdit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructures/Arrays/permutation.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/ArraysStrings/permutation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tries/tries_implementation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tries/tries_implementation.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,28 +14,24 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BitManipulation/Insert.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/DataStructures/ArraysStrings/StringCompression.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataStructures/ArraysStrings/StringCompression.py">
+        <entry file="file://$PROJECT_DIR$/LinkedList/kToLast.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1">
-              <caret lean-forward="true" />
+            <state relative-caret-position="510">
+              <caret line="34" column="46" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LinkedList/kToLast.py">
+        <entry file="file://$PROJECT_DIR$/Tries/tries_implementation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="34" column="46" lean-forward="true" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
+            <state relative-caret-position="506">
+              <caret line="47" column="41" selection-start-line="47" selection-start-column="41" selection-end-line="47" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -48,7 +39,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LinkedList/implementation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="943">
+            <state relative-caret-position="1680">
               <caret line="112" selection-start-line="112" selection-end-line="116" selection-end-column="13" />
             </state>
           </provider>
@@ -140,7 +131,6 @@
         <option value="$PROJECT_DIR$/Recursion/frac_to_rec_dec.py" />
         <option value="$PROJECT_DIR$/Trees/tree_implementation.py" />
         <option value="$PROJECT_DIR$/Sort/Bubble.py" />
-        <option value="$PROJECT_DIR$/Tries/tries_implementation.py" />
         <option value="$PROJECT_DIR$/TEMP" />
         <option value="$PROJECT_DIR$/Sort/Insertion.py" />
         <option value="$PROJECT_DIR$/Sort/Merge.py" />
@@ -156,6 +146,7 @@
         <option value="$PROJECT_DIR$/BitManipulation/Insert.py" />
         <option value="$PROJECT_DIR$/DataStructures/ArraysStrings/StringCompression.py" />
         <option value="$PROJECT_DIR$/LinkedList/kToLast.py" />
+        <option value="$PROJECT_DIR$/Tries/tries_implementation.py" />
       </list>
     </option>
   </component>
@@ -170,6 +161,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -193,11 +185,15 @@
               <item name="CodingPractice" type="462c0819:PsiDirectoryNode" />
               <item name="LinkedList" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="CodingPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodingPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="Tries" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -217,7 +213,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.kToLast">
+  <component name="RunManager" selected="Python.tries_implementation">
     <configuration name="Insert" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CodingPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -231,27 +227,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BitManipulation/Insert.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Queue" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="CodingPractice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Queue_prac.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -323,20 +298,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="tries_implementation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CodingPractice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tries" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tries/tries_implementation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.Queue" />
       <item itemvalue="Python.complement" />
       <item itemvalue="Python.Insert" />
       <item itemvalue="Python.StringCompression" />
       <item itemvalue="Python.kToLast" />
+      <item itemvalue="Python.tries_implementation" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tries_implementation" />
         <item itemvalue="Python.kToLast" />
         <item itemvalue="Python.StringCompression" />
         <item itemvalue="Python.Insert" />
         <item itemvalue="Python.complement" />
-        <item itemvalue="Python.Queue" />
       </list>
     </recent_temporary>
   </component>
@@ -441,11 +437,6 @@
           <option name="timeStamp" value="42" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Tries/tries_implementation.py</url>
-          <line>39</line>
-          <option name="timeStamp" value="51" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Sort/Insertion.py</url>
           <line>14</line>
           <option name="timeStamp" value="52" />
@@ -504,6 +495,11 @@
           <url>file://$PROJECT_DIR$/LinkedList/kToLast.py</url>
           <line>48</line>
           <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Tries/tries_implementation.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="80" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -643,13 +639,6 @@
     <entry file="file://$PROJECT_DIR$/CandyPackets/CandyPackets.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tries/tries_implementation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TEMP" />
     <entry file="file://$PROJECT_DIR$/Sort/Bubble.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -742,6 +731,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/BitManipulation/Insert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/ArraysStrings/StringCompression.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedList/implementation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1680">
+          <caret line="112" selection-start-line="112" selection-end-line="116" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Trees/BinarySearch.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -776,31 +782,17 @@
     <entry file="file://$PROJECT_DIR$/DynammicP/minCostClimbingStairs/minCostClimbingStairs.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/BitManipulation/Insert.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LinkedList/implementation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="943">
-          <caret line="112" selection-start-line="112" selection-end-line="116" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructures/ArraysStrings/StringCompression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1">
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LinkedList/kToLast.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="34" column="46" lean-forward="true" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
+        <state relative-caret-position="510">
+          <caret line="34" column="46" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tries/tries_implementation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="47" column="41" selection-start-line="47" selection-start-column="41" selection-end-line="47" selection-end-column="41" />
         </state>
       </provider>
     </entry>

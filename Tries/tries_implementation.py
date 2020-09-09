@@ -1,32 +1,42 @@
 
 
-class TrieNode():
+class TrieNode:
     def __init__(self):
         self.children = [None]*26
         self.terminating = False
 
 class Trie:
     def __init__(self):
-        self.root = self.get_node()
+        self.root = TrieNode()
 
-    def get_node(self):
+    def getNode(self):
         return TrieNode()
 
     def get_index(self, ch):
         return ord(ch) - ord('a')
 
     def insert(self, word):
-        root = self.root
-        l = len(word)
-        for i in range(l):
-            index = self.get_index(word[i])
+        pCrawl = self.root  # pCrawl is the word's character pointer
 
-            if index not in root.children:
-                root.children[index] = self.get_node()
-            # root = root.children.get(index)
-            root = root.children[index]
+        for i in range(len(word)):
+            ind = self.get_index(word[i])
 
-        root.terminating = True
+            if pCrawl.children[ind] is None:
+                pCrawl.children[ind] = self.getNode()
+
+            pCrawl = pCrawl.children[ind]
+
+        pCrawl.terminating = True
+
+    def search(self, word):
+        pCrawl = self.root
+        for i in range(len(word)):
+            ind = self.get_index(word[i])
+            if pCrawl.children[ind] is None:
+                return False
+            pCrawl = pCrawl.children[ind]
+
+        return pCrawl != None and pCrawl.terminating
 
 
 t = Trie()
@@ -37,4 +47,7 @@ output = ["Not present in trie", "Present in trie"]
 for key in keys:
     t.insert(key)
 
-print(t)
+print("{} ---- {}".format("the",output[t.search("the")]))
+print("{} ---- {}".format("these",output[t.search("these")]))
+print("{} ---- {}".format("their",output[t.search("their")]))
+print("{} ---- {}".format("there",output[t.search("there")]))
