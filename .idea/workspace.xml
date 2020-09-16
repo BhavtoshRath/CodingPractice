@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b255e075-e684-4ad0-a813-fd68265fb599" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Heap/heap_implementation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/MagicIndex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/PowerSet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/RecursiveMult.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tries/tries_implementation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tries/tries_implementation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees/tree_implementation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Trees/tree_implementation.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,33 +18,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataStructures/ArraysStrings/StringCompression.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/Heap/heap_implementation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="750">
+              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LinkedList/kToLast.py">
+        <entry file="file://$PROJECT_DIR$/Recursion/MagicIndex.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" column="46" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
+            <state relative-caret-position="250">
+              <caret line="29" column="23" lean-forward="true" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Recursion/PowerSet.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Tries/tries_implementation.py">
+        <entry file="file://$PROJECT_DIR$/Recursion/RecursiveMult.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="47" column="41" selection-start-line="47" selection-start-column="41" selection-end-line="47" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LinkedList/implementation.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1680">
-              <caret line="112" selection-start-line="112" selection-end-line="116" selection-end-column="13" />
+            <state>
+              <caret column="95" selection-start-column="95" selection-end-column="95" />
             </state>
           </provider>
         </entry>
@@ -129,7 +137,6 @@
         <option value="$PROJECT_DIR$/Trees/BinarySearch.py" />
         <option value="$PROJECT_DIR$/Recursion/fact.py" />
         <option value="$PROJECT_DIR$/Recursion/frac_to_rec_dec.py" />
-        <option value="$PROJECT_DIR$/Trees/tree_implementation.py" />
         <option value="$PROJECT_DIR$/Sort/Bubble.py" />
         <option value="$PROJECT_DIR$/TEMP" />
         <option value="$PROJECT_DIR$/Sort/Insertion.py" />
@@ -147,11 +154,15 @@
         <option value="$PROJECT_DIR$/DataStructures/ArraysStrings/StringCompression.py" />
         <option value="$PROJECT_DIR$/LinkedList/kToLast.py" />
         <option value="$PROJECT_DIR$/Tries/tries_implementation.py" />
+        <option value="$PROJECT_DIR$/Trees/tree_implementation.py" />
+        <option value="$PROJECT_DIR$/Heap/heap_implementation.py" />
+        <option value="$PROJECT_DIR$/Recursion/MagicIndex.py" />
+        <option value="$PROJECT_DIR$/Recursion/PowerSet.py" />
+        <option value="$PROJECT_DIR$/Recursion/RecursiveMult.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="-1680" />
     <option name="width" value="1680" />
     <option name="height" value="1050" />
   </component>
@@ -161,7 +172,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -172,28 +182,18 @@
             <path>
               <item name="CodingPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="CodingPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="DynammicP" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CodingPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="CodingPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
-              <item name="ArraysStrings" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodingPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodingPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="LinkedList" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodingPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodingPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="Tries" type="462c0819:PsiDirectoryNode" />
+              <item name="Recursion" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -213,8 +213,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.tries_implementation">
-    <configuration name="Insert" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.RecursiveMult">
+    <configuration name="MagicIndex" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CodingPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -222,11 +222,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BitManipulation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BitManipulation/Insert.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/MagicIndex.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -235,7 +235,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="StringCompression" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="PowerSet" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CodingPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -243,11 +243,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataStructures/ArraysStrings" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructures/ArraysStrings/StringCompression.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/PowerSet.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -256,7 +256,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="complement" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="RecursiveMult" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CodingPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -264,11 +264,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BitManipulation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BitManipulation/complement.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/RecursiveMult.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -277,7 +277,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="kToLast" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="heap_implementation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CodingPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -285,11 +285,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LinkedList" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Heap" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LinkedList/kToLast.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Heap/heap_implementation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -298,7 +298,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tries_implementation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tree_implementation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CodingPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -306,11 +306,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tries" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Trees" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tries/tries_implementation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Trees/tree_implementation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -320,19 +320,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.complement" />
-      <item itemvalue="Python.Insert" />
-      <item itemvalue="Python.StringCompression" />
-      <item itemvalue="Python.kToLast" />
-      <item itemvalue="Python.tries_implementation" />
+      <item itemvalue="Python.heap_implementation" />
+      <item itemvalue="Python.tree_implementation" />
+      <item itemvalue="Python.MagicIndex" />
+      <item itemvalue="Python.PowerSet" />
+      <item itemvalue="Python.RecursiveMult" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.tries_implementation" />
-        <item itemvalue="Python.kToLast" />
-        <item itemvalue="Python.StringCompression" />
-        <item itemvalue="Python.Insert" />
-        <item itemvalue="Python.complement" />
+        <item itemvalue="Python.RecursiveMult" />
+        <item itemvalue="Python.PowerSet" />
+        <item itemvalue="Python.MagicIndex" />
+        <item itemvalue="Python.heap_implementation" />
+        <item itemvalue="Python.tree_implementation" />
       </list>
     </recent_temporary>
   </component>
@@ -350,16 +350,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1680" y="0" width="1680" height="1050" extended-state="0" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1308017" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10970464" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32857144" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.33673468" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32857144" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.45408162" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -423,13 +423,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Trees/tree_implementation.py</url>
-          <line>67</line>
+          <line>66</line>
           <option name="timeStamp" value="38" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Trees/tree_implementation.py</url>
-          <line>63</line>
-          <option name="timeStamp" value="39" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Sort/Bubble.py</url>
@@ -497,71 +492,89 @@
           <option name="timeStamp" value="77" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Tries/tries_implementation.py</url>
-          <line>56</line>
-          <option name="timeStamp" value="80" />
+          <url>file://$PROJECT_DIR$/Trees/tree_implementation.py</url>
+          <line>60</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Heap/heap_implementation.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Recursion/MagicIndex.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Recursion/PowerSet.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Recursion/RecursiveMult.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="92" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="len(bin1) - i" language="Python" />
-        <watch expression="bin(allOnes)" language="Python" />
-        <watch expression="7&lt;&lt;1" language="Python" />
-        <watch expression="&quot;{0:b}&quot;.format(n)" language="Python" />
-        <watch expression="&quot;{0:b}&quot;.format(allOnes)" language="Python" />
-        <watch expression="&quot;{0:b}&quot;.format(left)" language="Python" />
-        <watch expression="new_s[-1]" language="Python" />
-        <watch expression="len(st)" language="Python" />
-        <watch expression="str(read - anchor + 1)" language="Python" />
-        <watch expression="mylist.head.getNext" language="Python" />
+        <watch expression="self.heapList[size]" language="Python" />
+        <watch expression="self.heapList[size//2]" language="Python" />
+        <watch expression="len(curr)" language="Python" />
       </configuration>
     </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
       <expression>
-        <expression-string>mylist.head.getNext</expression-string>
+        <expression-string>len(curr)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>str(read - anchor + 1)</expression-string>
+        <expression-string>self.heapList[size//2]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>len(st)</expression-string>
+        <expression-string>self.heapList[size]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>len(new_s)</expression-string>
+        <expression-string>l</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>new_s[-1]</expression-string>
+        <expression-string>l.pop()</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>st[-1]</expression-string>
+        <expression-string>7.2//2</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>st</expression-string>
+        <expression-string>7.2//3</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>&quot;{0:b}&quot;.format(left)</expression-string>
+        <expression-string>7/2</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>&quot;{0:b}&quot;.format(allOnes)</expression-string>
+        <expression-string>7//2</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>6//2</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -623,13 +636,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Trees/tree_implementation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="885">
-          <caret line="59" selection-start-line="59" selection-end-line="59" />
         </state>
       </provider>
     </entry>
@@ -741,6 +747,27 @@
     <entry file="file://$PROJECT_DIR$/DataStructures/ArraysStrings/StringCompression.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedList/kToLast.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="46" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tries/tries_implementation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trees/tree_implementation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1005">
+          <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/LinkedList/implementation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1680">
@@ -782,17 +809,31 @@
     <entry file="file://$PROJECT_DIR$/DynammicP/minCostClimbingStairs/minCostClimbingStairs.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/LinkedList/kToLast.py">
+    <entry file="file://$PROJECT_DIR$/Heap/heap_implementation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="46" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
+        <state relative-caret-position="750">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tries/tries_implementation.py">
+    <entry file="file://$PROJECT_DIR$/Recursion/MagicIndex.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="47" column="41" selection-start-line="47" selection-start-column="41" selection-end-line="47" selection-end-column="41" />
+        <state relative-caret-position="250">
+          <caret line="29" column="23" lean-forward="true" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recursion/PowerSet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recursion/RecursiveMult.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="95" selection-start-column="95" selection-end-column="95" />
         </state>
       </provider>
     </entry>

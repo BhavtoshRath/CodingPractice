@@ -17,8 +17,7 @@ class Node:
                 else:
                     self.right.insert(data)
         else:
-            self.data = data # If this is the first node in the tree.
-
+            self.data = data # If this is the same as node in the tree.
 
     def find(self, data):
         if data < self.data:
@@ -55,7 +54,7 @@ class Node:
 
 
 
-
+l = [1,2,3,4]
 
 
 root = Node(12)
